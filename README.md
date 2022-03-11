@@ -1,11 +1,13 @@
-## Project parent repositories
+## Parent Project 
 
- * [https://github.com/sucho-oai](https://github.com/sucho-oai)
- * [https://sr.ht/~justinkelly/SUCHO/](https://sr.ht/~justinkelly/SUCHO/)
+ * List of git repositoires in this project: [https://github.com/sucho-oai](https://github.com/sucho-oai)
+ * Description and details for this project: [https://github.com/sucho-oai/admin](https://github.com/sucho-oai/admin)
 
-## About
+## About this repository
 
 This is a repository of the full harvest of the OAI-PMH server: https://scijournals.pnu.edu.ua/index.php/ukrst/oai using [metha](https://github.com/miku/metha)
+
+## About this project
 
 The purpose of this project to take harvests of as many Ukrainian OAI-PMH repository servers (metadata and source files) as possible. Refer [https://github.com/sucho-oai](https://github.com/sucho-oai) for all the repositories harvested. 1 Git repository per OAI-PMH repository server or endpoint.
 
